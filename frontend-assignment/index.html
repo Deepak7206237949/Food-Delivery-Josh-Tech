@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>JTGeats - Authentic Home Food</title>
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+  <!-- Swiper for Carousel -->
+  <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
+</head>
+<body>
+  <!-- Header -->
+  <header class="header">
+    <div class="logo">JTGeats</div>
+    <nav>
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Menu</a></li>
+        <li><a href="#">Blog</a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <!-- Hero Section -->
+  <section class="hero">
+    <div class="hero-content">
+      <h1>Authentic Home food in India</h1>
+      <p>Choose a dish from menu and get authentic home cooked food delivered at your doorstep.</p>
+      <div class="search-bar">
+        <input type="text" placeholder="Search Food Item">
+        <button>Search</button>
+      </div>
+    </div>
+    <div class="hero-image">
+      <img src="images/hero-chef.png" alt="Chef">
+    </div>
+  </section>
+
+  <!-- Menu Section -->
+  <section class="menu">
+    <h2>Home Kitchen</h2>
+    <div class="menu-grid">
+      <div class="card"><img src="images/dish1.jpg"><h3>Home Made Pizza</h3><p>₹199</p></div>
+      <div class="card"><img src="images/dish2.jpg"><h3>Veg Roll</h3><p>₹129</p></div>
+      <div class="card"><img src="images/dish3.jpg"><h3>Chicken Curry</h3><p>₹179</p></div>
+      <!-- Repeat more items -->
+    </div>
+  </section>
+
+  <!-- Popular Items Carousel -->
+  <section class="popular">
+    <h2>Popular Items</h2>
+    <div class="swiper mySwiper">
+      <div class="swiper-wrapper">
+        <div class="swiper-slide"><img src="images/popular1.jpg"><h3>Paneer Tikka</h3><p>₹150</p></div>
+        <div class="swiper-slide"><img src="images/popular2.jpg"><h3>Tandoori Chicken</h3><p>₹210</p></div>
+        <div class="swiper-slide"><img src="images/popular3.jpg"><h3>Chilli Chicken</h3><p>₹175</p></div>
+      </div>
+      <div class="swiper-button-next"></div>
+      <div class="swiper-button-prev"></div>
+    </div>
+    <button id="requestBtn">Request a Dish</button>
+  </section>
+
+  <!-- Modal -->
+  <div id="modal" class="modal">
+    <div class="modal-content">
+      <h2>Request Dish</h2>
+      <form>
+        <input type="text" placeholder="Your Name" required>
+        <input type="email" placeholder="Your Email" required>
+        <textarea placeholder="Dish Request" required></textarea>
+        <div class="modal-actions">
+          <button type="button" id="cancelBtn">Cancel</button>
+          <button type="submit">Submit Request</button>
+        </div>
+      </form>
+    </div>
+  </div>
+
+  <!-- Video Section -->
+  <section class="video-section">
+    <h2>We are providing best home cooked food delivery service.</h2>
+    <video id="promoVideo" width="640" height="360" poster="images/video-thumb.jpg">
+      <source src="video/food.mp4" type="video/mp4">
+    </video>
+    <div class="video-overlay" id="playBtn">▶</div>
+  </section>
+
+  <!-- Contact Section -->
+  <section class="contact">
+    <h2>Do you have a question or want to become a seller?</h2>
+    <form>
+      <input type="text" placeholder="Your Name">
+      <input type="email" placeholder="Your Email">
+      <textarea placeholder="Your Message"></textarea>
+      <button type="submit">Submit</button>
+    </form>
+  </section>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <p>© 2025 JTGeats | All Rights Reserved</p>
+  </footer>
+
+  <!-- JS -->
+  <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+  <script src="js/script.js"></script>
+</body>
+</html>
