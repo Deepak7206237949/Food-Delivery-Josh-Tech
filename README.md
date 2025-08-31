@@ -1,21 +1,4 @@
-# 🍽️ JTEats - Authentic Home Food Delivery Website
 
-A modern, responsive food delivery website that connects customers with authentic home-cooked meals across India. Built with pixel-perfect design using HTML5, CSS3, and vanilla JavaScript.
-
-![JTEats Logo](images/logo.png)
-
-## � Project Overview
-
-JTEats is a comprehensive food delivery platform featuring:
-- **Smooth Scrolling Navigation** with slide animations between sections
-- **Interactive Carousels** for popular food items with touch support
-- **Responsive Design** that works perfectly on all devices
-- **Authentic Home Kitchen** showcasing real home-cooked meals
-- **Video Content Section** with custom player controls
-- **Contact Form** with delivery illustration
-- **Modern UI/UX** with hover effects and micro-interactions
-
-## 🛠️ Technologies Used
 
 ### **Frontend Stack**
 - **HTML5**: Semantic markup with accessibility features
@@ -60,35 +43,7 @@ JTEats/
 ## 🎨 Design Features & Images
 
 ### **🏠 Home Section**
-![Hero Section](images/hero-food.jpg)
-- **Hero Banner**: Authentic home food tagline with search functionality
-- **Chef Illustration**: ![Chef](images/food%20image1.JPG) - Cooking demonstration
-- **Call-to-Action**: Search bar for finding favorite foods
 
-### **🍕 Home Kitchen Section**
-The kitchen showcases authentic home-cooked meals:
-
-| Image | Dish | Rating | Price |
-|-------|------|--------|-------|
-| ![Pizza 1](images/pizza1.jpg) | Home made pizza | ⭐ 4.7 | ₹190 |
-| ![Pizza 2](images/pizza2.jpg) | Tandoori Chicken | ⭐ 4.3 | ₹184 |
-| ![Pizza 3](images/pizza3.jpg) | Chilli Chicken | ⭐ 4.1 | ₹116 |
-| ![Pizza 4](images/pizza4.jpg) | Grilled Chicken | ⭐ 4.5 | ₹220 |
-
-### **🔥 Popular Items Carousel**
-Interactive slider featuring trending dishes:
-
-| Image | Item | Rating | Time | Price |
-|-------|------|--------|------|-------|
-| ![Popular Pizza](images/popular-pizza.jpg) | Home made pizza | ⭐ 4.7 | 50-70 min | ₹190 |
-| ![Popular Tandoori](images/popular-tandoori.jpg) | Tandoori Chicken | ⭐ 4.3 | 15-25 min | ₹184 |
-| ![Popular Chilli](images/popular-chilli.jpg) | Chilli Chicken | ⭐ 4.1 | 30-40 min | ₹116 |
-
-### **📺 Video Section**
-![Video Poster](images/video%20image.jpg)
-- **Custom Video Player**: Promotional content about home-cooked food delivery
-- **Play Button Overlay**: Interactive controls with smooth animations
-- **Responsive Design**: Adapts to all screen sizes
 
 ### **📞 Contact Section**
 ![Delivery Illustration](images/delivery.JPG)
@@ -353,69 +308,12 @@ All images are properly sized and optimized:
 }
 ```
 
-### **Extending Functionality**
-- **Shopping Cart**: Add cart state management and checkout flow
-- **User Authentication**: Implement login/signup functionality
-- **Backend Integration**: Connect to API for dynamic content
-- **Payment Gateway**: Add payment processing capabilities
-- **Order Tracking**: Implement real-time order status updates
 
-## 🚀 Deployment
 
-### **Production Checklist**
-- ✅ All images optimized and compressed
-- ✅ Video files optimized for web delivery
-- ✅ CSS and JavaScript minified (optional)
-- ✅ HTTPS enabled for secure delivery
-- ✅ Cross-browser testing completed
-- ✅ Mobile responsiveness verified
-- ✅ Performance testing done
-- ✅ SEO meta tags added
-
-### **Hosting Options**
-- **GitHub Pages**: Free hosting for static sites
-- **Netlify**: Easy deployment with form handling
-- **Vercel**: Fast global CDN deployment
-- **Traditional Web Hosting**: Any standard web server
-
-## 🏆 Project Highlights
-
-### **✅ Technical Excellence**
-- **Pixel-Perfect Design**: Matches design specifications exactly
-- **Semantic HTML5**: Proper markup with accessibility features
-- **Modern CSS3**: Flexbox, Grid, Custom Properties, Animations
-- **Vanilla JavaScript**: Pure ES6+ code with no dependencies
-- **Responsive Design**: Works flawlessly on all devices
-- **Cross-Browser Support**: Compatible with all major browsers
-
-### **✅ User Experience**
-- **Smooth Navigation**: Seamless scrolling between sections
-- **Interactive Elements**: Engaging hover effects and animations
-- **Mobile-First**: Optimized for mobile devices
-- **Fast Loading**: Optimized assets and efficient code
-- **Intuitive Interface**: Easy-to-use navigation and interactions
-
-### **✅ Code Quality**
-- **Clean Architecture**: Well-organized file structure
-- **Maintainable Code**: Clear naming conventions and comments
-- **Performance Optimized**: Fast loading and smooth animations
-- **Scalable Design**: Easy to extend and customize
-- **Best Practices**: Following web development standards
-
----
-
-## 📞 Contact & Support
-
-**JTEats Development Team**
-- 🌐 **Website**: [JTEats.com](https://jteats.com)
-- 📧 **Email**: contact@jteats.com
-- 📱 **Phone**: +91 XXXXX XXXXX
-
-**Made with ❤️ for authentic home food lovers across India**
-
----
 
 *This project demonstrates modern web development practices with a focus on user experience, performance, and maintainability.*
-#   F o o d - D e l i v e r y - J o s h - T e c h  
- #   F o o d - D e l i v e r y - J o s h - T e c h  
+#   F o o d - D e l i v e r y - J o s h - T e c h 
+ 
+ #   F o o d - D e l i v e r y - J o s h - T e c h 
+ 
  
